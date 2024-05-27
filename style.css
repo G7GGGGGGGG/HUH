@@ -1,0 +1,33 @@
+body
+{
+    font-family: Franklin Gothic;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+#navbar_ul
+{
+    text-align: center;
+}
+
+.navbar_text
+{
+    font-family: Franklin Gothic;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.navbar_text:hover
+{
+    color: lightgrey;
+}
+
+button:hover
+{
+    background-color: lightgrey;
+}
+
+th, td
+{
+    padding: 7.5px
+}
